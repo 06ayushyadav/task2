@@ -11,8 +11,8 @@ A simple MERN frontend app to verify browser camera access and handle basic medi
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/06ayushyadav/task2.git
+cd camera-test
 ````
 
 2. **Install dependencies:**
@@ -28,7 +28,7 @@ npm run dev
 ```
 
 4. **Open in browser:**
-   Navigate to [http://localhost:5173](http://localhost:5173) (or the port shown in terminal).
+   Navigate to [https://cameratestapp.netlify.app/] .
 
 ---
 
@@ -92,7 +92,7 @@ This app checks browser camera functionality:
 
 * Only supports basic camera preview; no photo capture or video recording.
 * Minimal design; focus is on functionality.
-* Optional bonus features (switch camera, show resolution, loading spinner) not implemented.
+* Optional bonus features (switch camera, show resolution) not implemented except loading spinner.
 
 ---
 

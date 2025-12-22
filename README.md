@@ -84,8 +84,6 @@ This app checks browser camera functionality:
 
 ![Camera Stopped](./public/stoped-camera.jpeg)
 
-> **Note:** Replace the image paths with your actual screenshot files.
-
 ---
 
 ## Limitations

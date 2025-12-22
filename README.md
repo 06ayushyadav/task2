@@ -1,6 +1,4 @@
-Perfect! Yahaan main **Version 2 ko GitHub-ready Markdown** me tayyar kar raha hoon, screenshots ke placeholders ke saath:
 
-````markdown
 # Camera Test App
 
 A simple MERN frontend app to verify browser camera access and handle basic media streams.

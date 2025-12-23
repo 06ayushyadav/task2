@@ -14,7 +14,6 @@ function App() {
         <Suspense fallback={<Spinner/>}>
           <Routes>
             <Route path="/" element={<Homepage />} />
-
             <Route path="/camera-test" element={<CameraTest />} />
           </Routes>
         </Suspense>

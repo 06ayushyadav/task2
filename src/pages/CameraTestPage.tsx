@@ -92,8 +92,7 @@ const CameraTestPage = () => {
           autoPlay
           playsInline
           muted
-          className="w-full max-w-md rounded-xl shadow-md border border-white pb-10"
-        />
+          className="w-full max-w-md rounded-xl shadow-md border border-white " />
         </div>
       )}
     </div>

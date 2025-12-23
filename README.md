@@ -10,7 +10,7 @@ A simple MERN frontend app to verify browser camera access and handle basic medi
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/06ayushyadav/task2.git
-cd camera-test
+cd task2
 ````
 
 2. **Install dependencies:**
